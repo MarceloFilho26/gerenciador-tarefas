@@ -1,4 +1,4 @@
-#Gerenciador de tarefas
+# Gerenciador de tarefas
 
 Fiz o desenvolvimento de um gerenciador de tarefas em python, onde nele poderá realizar as devidas atividades:
 
